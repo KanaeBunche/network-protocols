@@ -5,9 +5,6 @@
 <h1>Testing VPN Connection and IP Location with Azure Virtual Machines</h1>
 This tutorial covers testing the IP address on a local machine, checking the IP location on a Virtual Machine (VM) without a VPN, and testing the IP location with a VPN on the local machine.
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: VPN Connection and IP Location Testing](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
