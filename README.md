@@ -28,7 +28,7 @@ In this tutorial, we will walk through the process of testing your local machine
    Open a browser on your local machine and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/). Note down the IP address displayed.
 
    <p align="center">
-     <img src="https://ibb.co/ngGp9z1" alt="Check Local IP Address"/>
+     <img src="https://i.ibb.co/r7j9Y4p/Screenshot-2024-11-29-at-10-53-16-PM.png" alt="Check Local IP Address"/>
    </p>
    
 2. **Test IP Location Without VPN on Virtual Machine**  
