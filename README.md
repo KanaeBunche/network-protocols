@@ -27,9 +27,6 @@ In this tutorial, we will walk through the process of testing your local machine
 1. **Check Your Local Machine’s IP Address**  
    Open a browser on your local machine and go to [WhatIsMyIPAddress](https://whatismyipaddress.com/). Note down the IP address displayed.
 
-   <p align="center">
-     <img src="https://i.ibb.co/r7j9Y4p/Screenshot-2024-11-29-at-10-53-16-PM.png" alt="Check Local IP Address"/>
-   </p>
    
 2. **Test IP Location Without VPN on Virtual Machine**  
    Create and log into a Virtual Machine (VM) in Azure. Browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/) within your VM and take note of the IP address.
