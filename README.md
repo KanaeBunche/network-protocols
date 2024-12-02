@@ -28,7 +28,7 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 
    [![Watch the video on Testing IP Location Without VPN](https://img.youtube.com/vi/YFNkjJf3lo8/0.jpg)](https://www.youtube.com/watch?v=YFNkjJf3lo8)
 
-   *Click the image or [here](https://www.youtube.com/watch?v=YFNkjJf3lo8) to watch a video explanation.*
+   *Click the image or [here](https://www.youtube.com/watch?v=YFNkjJf3lo8) to watch a video demo.*
 
 
 3. **Test IP Location With VPN on Virtual Machine**  
@@ -36,7 +36,7 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 
    [![Watch the video on Testing IP Location With VPN](https://img.youtube.com/vi/zyeGKbw1tGI/0.jpg)](https://www.youtube.com/watch?v=zyeGKbw1tGI)
 
-   *Click the image or [here](https://www.youtube.com/watch?v=zyeGKbw1tGI) to watch a video explanation.*
+   *Click the image or [here](https://www.youtube.com/watch?v=zyeGKbw1tGI) to watch a video demo.*
 
 4. **Clean Up Azure Resources**  
    Delete the resource group containing the VM in Azure to avoid unnecessary charges.
@@ -52,4 +52,4 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 </p>
 
 <h2>Conclusion</h2>
-This demonstration illustrates how VPNs alter IP addresses and the impact on network security.
+This demonstration illustrates how VPNs alter IP addresses and their impact on network security.
