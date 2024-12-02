@@ -5,7 +5,6 @@
 <h1>Testing VPN Connection and IP Location with Azure Virtual Machines</h1>
 This tutorial covers testing the IP address on a local machine, checking the IP location on a Virtual Machine (VM) without a VPN, and testing the IP location with a VPN on the local machine.
 
-
 <h2>Environments and Technologies Used</h2>
 
 - **Microsoft Azure (Virtual Machines/Compute)**
@@ -27,16 +26,16 @@ This tutorial covers testing the IP address on a local machine, checking the IP 
 2. **Test IP Location Without VPN on Virtual Machine**  
    Log into a Virtual Machine (VM) on Azure. Browse to [WhatIsMyIPAddress](https://whatismyipaddress.com/) in the VM and note the IP address.
 
-   <p align="center">
-     <img src="https://s2.ezgif.com/tmp/ezgif-2-4780c7db44.gif" alt="Check VM IP Without VPN"/>
-   </p>
+   [![Watch the video on Testing IP Location Without VPN](https://img.youtube.com/vi/f9-g-mZfrm8/0.jpg)](https://www.youtube.com/watch?v=f9-g-mZfrm8)
 
-3. **Test IP Location With VPN on Local Machine**  
-   Install ProtonVPN on the local machine. Connect to a VPN server in a different country (e.g., Japan). Visit [WhatIsMyIPAddress](https://whatismyipaddress.com/) and note the new IP address.
+   *Click the image or [here](https://www.youtube.com/watch?v=f9-g-mZfrm8) to watch a video explanation.*
 
-   <p align="center">
-     <img src="https://s6.ezgif.com/tmp/ezgif-6-435001c9d8.gif" alt="Check IP with VPN on Local Machine"/>
-   </p>
+3. **Test IP Location With VPN on Virtual Machine**  
+   Install ProtonVPN on the virtual machine. Connect to a VPN server in a different country (e.g., Japan). Visit [WhatIsMyIPAddress](https://whatismyipaddress.com/) and note the new IP address.
+
+   [![Watch the video on Testing IP Location With VPN](https://img.youtube.com/vi/zyeGKbw1tGI/0.jpg)](https://www.youtube.com/watch?v=zyeGKbw1tGI)
+
+   *Click the image or [here](https://www.youtube.com/watch?v=zyeGKbw1tGI) to watch a video explanation.*
 
 4. **Clean Up Azure Resources**  
    Delete the resource group containing the VM in Azure to avoid unnecessary charges.
